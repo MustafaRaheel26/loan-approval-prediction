@@ -64,7 +64,7 @@ We use the **Loan Approval Prediction dataset (Kaggle)** and apply data preproce
 
 ### Locally
 ```bash
-git clone https://github.com/<your-username>/loan-approval-prediction.git
+git clone https://github.com/MustafaRaheel26/loan-approval-prediction.git
 cd loan-approval-prediction
 pip install -r requirements.txt
 jupyter notebook loan_approval_prediction.ipynb
